@@ -45,5 +45,5 @@ article h2 {
 	font-size: 2em
 }
 .column {
-	display: flexbox;
+	display: flex;
 }
