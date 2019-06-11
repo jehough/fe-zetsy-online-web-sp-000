@@ -29,6 +29,7 @@ h1 {
 	}
 header a h1 {
 	color: rgb(152,173,166);
+	font-style: normal;
 	border-bottom: 1px solid #ccc;
 	padding-bottom: 5px;
 	margin-bottom: 0px;
