@@ -55,7 +55,7 @@ article h2 {
 }
 
 .pressbox hover {
-	border: 5px solid darkgrey;
+	border: 5px solid rgb(111,127,122);
 }
 .copywrite {
 	margin-left: 800px;
