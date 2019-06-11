@@ -46,8 +46,7 @@ article h2 {
 }
 .column {
 	display: flex;
-	justify-content: center;
-	align-content: space-between;
+	justify-content: space-around;
 
 
 }
