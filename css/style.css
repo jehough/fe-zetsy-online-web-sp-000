@@ -54,7 +54,7 @@ article h2 {
 	border: 5px solid #ccc;
 }
 
-.pressbox hover {
+.pressbox a hover {
 	border: 5px solid rgb(111,127,122);
 }
 .copywrite {
