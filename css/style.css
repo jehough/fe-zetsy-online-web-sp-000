@@ -47,4 +47,9 @@ article h2 {
 .column {
 	display: flex;
 	justify-content: center;
+	
+}
+
+.pressbox {
+	border: 5px solid rgb(111,127,122)
 }
