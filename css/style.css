@@ -36,5 +36,5 @@ header > h1 {
 figure img {
 	border: 5px solid #ccc;
 	padding: 0;
-	margin-left: 0
+	margin: 0 auto;
 }
