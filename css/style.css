@@ -31,7 +31,7 @@ header a {
 	color: rgb(152,173,166);
 	text-decoration: none;
 }
-header a h1 {
+header h1 {
 	color: rgb(152,173,166);
 	font-style: normal;
 	border-bottom: 1px solid #ccc;
