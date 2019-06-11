@@ -34,6 +34,9 @@ header > h1 {
 	margin-bottom: 0px;
 }
 
+h1 hover {
+	color: rgb(111,127,122);
+}
 figure img {
 	border: 5px solid #ccc;
 	margin-top:-10px ;
