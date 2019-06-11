@@ -27,7 +27,7 @@ h1 {
 	font-size: 5em;
 	color:
 	}
-header > h1 {
+header a h1 {
 	color: rgb(152,173,166);
 	border-bottom: 1px solid #ccc;
 	padding-bottom: 5px;
